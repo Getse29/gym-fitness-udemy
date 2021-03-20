@@ -1,0 +1,134 @@
+[06-Jan-2021 17:35:22 UTC] PHP Parse error:  syntax error, unexpected '$args' (T_VARIABLE), expecting '(' in C:\Users\Getse\Local Sites\gymfitness\app\public\wp-content\themes\gymfitnesscss\header.php on line 29
+[06-Jan-2021 17:46:53 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\Getse\Local Sites\gymfitness\app\public\wp-content\themes\gymfitnesscss\header.php on line 58
+[07-Jan-2021 20:37:08 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Getse\Local Sites\gymfitness\app\public\wp-content\themes\gymfitnesscss\functions.php on line 6
+[07-Jan-2021 20:37:26 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in C:\Users\Getse\Local Sites\gymfitness\app\public\wp-content\themes\gymfitnesscss\functions.php on line 11
+[07-Jan-2021 20:37:26 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in C:\Users\Getse\Local Sites\gymfitness\app\public\wp-content\themes\gymfitnesscss\functions.php on line 11
+[07-Jan-2021 20:50:39 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Getse\Local Sites\gymfitness\app\public\wp-content\themes\gymfitnesscss\functions.php on line 9
+[07-Jan-2021 20:50:39 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Getse\Local Sites\gymfitness\app\public\wp-content\themes\gymfitnesscss\functions.php on line 9
+[08-Jan-2021 04:42:19 UTC] PHP Warning:  define() expects at least 2 parameters, 1 given in C:\Users\Getse\Local Sites\gymfitness\app\public\wp-content\plugins\gymfitness_post_types\gymfitnesscss.php on line 13
+[08-Jan-2021 04:42:19 UTC] PHP Stack trace:
+[08-Jan-2021 04:42:19 UTC] PHP   1. {main}() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-admin\admin-ajax.php:0
+[08-Jan-2021 04:42:19 UTC] PHP   2. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-admin\admin-ajax.php:22
+[08-Jan-2021 04:42:19 UTC] PHP   3. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-load.php:37
+[08-Jan-2021 04:42:19 UTC] PHP   4. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-config.php:77
+[08-Jan-2021 04:42:19 UTC] PHP   5. include_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-settings.php:388
+[08-Jan-2021 04:42:19 UTC] PHP   6. define() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-content\plugins\gymfitness_post_types\gymfitnesscss.php:13
+[08-Jan-2021 04:44:20 UTC] PHP Warning:  define() expects at least 2 parameters, 1 given in C:\Users\Getse\Local Sites\gymfitness\app\public\wp-content\plugins\gymfitness_post_types\gymfitnesscss.php on line 13
+[08-Jan-2021 04:44:20 UTC] PHP Stack trace:
+[08-Jan-2021 04:44:20 UTC] PHP   1. {main}() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-admin\admin-ajax.php:0
+[08-Jan-2021 04:44:20 UTC] PHP   2. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-admin\admin-ajax.php:22
+[08-Jan-2021 04:44:20 UTC] PHP   3. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-load.php:37
+[08-Jan-2021 04:44:20 UTC] PHP   4. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-config.php:77
+[08-Jan-2021 04:44:20 UTC] PHP   5. include_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-settings.php:388
+[08-Jan-2021 04:44:20 UTC] PHP   6. define() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-content\plugins\gymfitness_post_types\gymfitnesscss.php:13
+[08-Jan-2021 04:44:21 UTC] PHP Warning:  define() expects at least 2 parameters, 1 given in C:\Users\Getse\Local Sites\gymfitness\app\public\wp-content\plugins\gymfitness_post_types\gymfitnesscss.php on line 13
+[08-Jan-2021 04:44:21 UTC] PHP Stack trace:
+[08-Jan-2021 04:44:21 UTC] PHP   1. {main}() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-admin\post-new.php:0
+[08-Jan-2021 04:44:21 UTC] PHP   2. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-admin\post-new.php:10
+[08-Jan-2021 04:44:21 UTC] PHP   3. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-admin\admin.php:34
+[08-Jan-2021 04:44:21 UTC] PHP   4. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-load.php:37
+[08-Jan-2021 04:44:21 UTC] PHP   5. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-config.php:77
+[08-Jan-2021 04:44:21 UTC] PHP   6. include_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-settings.php:388
+[08-Jan-2021 04:44:21 UTC] PHP   7. define() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-content\plugins\gymfitness_post_types\gymfitnesscss.php:13
+[08-Jan-2021 04:44:21 UTC] PHP Warning:  define() expects at least 2 parameters, 1 given in C:\Users\Getse\Local Sites\gymfitness\app\public\wp-content\plugins\gymfitness_post_types\gymfitnesscss.php on line 13
+[08-Jan-2021 04:44:21 UTC] PHP Stack trace:
+[08-Jan-2021 04:44:21 UTC] PHP   1. {main}() C:\Users\Getse\Local Sites\gymfitness\app\public\index.php:0
+[08-Jan-2021 04:44:21 UTC] PHP   2. require() C:\Users\Getse\Local Sites\gymfitness\app\public\index.php:17
+[08-Jan-2021 04:44:21 UTC] PHP   3. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-blog-header.php:13
+[08-Jan-2021 04:44:21 UTC] PHP   4. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-load.php:37
+[08-Jan-2021 04:44:21 UTC] PHP   5. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-config.php:77
+[08-Jan-2021 04:44:21 UTC] PHP   6. include_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-settings.php:388
+[08-Jan-2021 04:44:21 UTC] PHP   7. define() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-content\plugins\gymfitness_post_types\gymfitnesscss.php:13
+[08-Jan-2021 07:33:25 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\Getse\Local Sites\gymfitness\app\public\wp-content\themes\gymfitnesscss\template-parts\paginas.php on line 22
+[09-Jan-2021 23:37:18 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING), expecting ';' in C:\Users\Getse\Local Sites\gymfitness\app\public\wp-content\themes\gymfitnesscss\functions.php on line 52
+[10-Jan-2021 02:59:42 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\Getse\Local Sites\gymfitness\app\public\wp-content\themes\gymfitnesscss\page-galerias.php on line 22
+[10-Jan-2021 03:11:00 UTC] PHP Warning:  explode() expects at least 2 parameters, 1 given in C:\Users\Getse\Local Sites\gymfitness\app\public\wp-content\themes\gymfitnesscss\page-galerias.php on line 20
+[10-Jan-2021 03:11:00 UTC] PHP Stack trace:
+[10-Jan-2021 03:11:00 UTC] PHP   1. {main}() C:\Users\Getse\Local Sites\gymfitness\app\public\index.php:0
+[10-Jan-2021 03:11:00 UTC] PHP   2. require() C:\Users\Getse\Local Sites\gymfitness\app\public\index.php:17
+[10-Jan-2021 03:11:00 UTC] PHP   3. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-blog-header.php:19
+[10-Jan-2021 03:11:00 UTC] PHP   4. include() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-includes\template-loader.php:106
+[10-Jan-2021 03:11:00 UTC] PHP   5. explode() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-content\themes\gymfitnesscss\page-galerias.php:20
+[29-Jan-2021 08:12:25 UTC] PHP Warning:  require(C:\Users\Getse\Local Sites\gymfitness\app\public/wp-content/themes/gymfitnesscss/inc/shortcodes.php): failed to open stream: No such file or directory in C:\Users\Getse\Local Sites\gymfitness\app\public\wp-content\themes\gymfitnesscss\functions.php on line 5
+[29-Jan-2021 08:12:25 UTC] PHP Stack trace:
+[29-Jan-2021 08:12:25 UTC] PHP   1. {main}() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-admin\admin-ajax.php:0
+[29-Jan-2021 08:12:25 UTC] PHP   2. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-admin\admin-ajax.php:22
+[29-Jan-2021 08:12:25 UTC] PHP   3. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-load.php:37
+[29-Jan-2021 08:12:25 UTC] PHP   4. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-config.php:74
+[29-Jan-2021 08:12:25 UTC] PHP   5. include() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-settings.php:525
+[29-Jan-2021 08:12:25 UTC] PHP Fatal error:  require(): Failed opening required 'C:\Users\Getse\Local Sites\gymfitness\app\public/wp-content/themes/gymfitnesscss/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\Getse\Local Sites\gymfitness\app\public\wp-content\themes\gymfitnesscss\functions.php on line 5
+[29-Jan-2021 08:12:25 UTC] PHP Stack trace:
+[29-Jan-2021 08:12:25 UTC] PHP   1. {main}() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-admin\admin-ajax.php:0
+[29-Jan-2021 08:12:25 UTC] PHP   2. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-admin\admin-ajax.php:22
+[29-Jan-2021 08:12:25 UTC] PHP   3. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-load.php:37
+[29-Jan-2021 08:12:25 UTC] PHP   4. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-config.php:74
+[29-Jan-2021 08:12:25 UTC] PHP   5. include() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-settings.php:525
+[29-Jan-2021 08:14:29 UTC] PHP Warning:  require(C:\Users\Getse\Local Sites\gymfitness\app\public/wp-content/themes/gymfitnesscss/inc/shortcodes.php): failed to open stream: No such file or directory in C:\Users\Getse\Local Sites\gymfitness\app\public\wp-content\themes\gymfitnesscss\functions.php on line 5
+[29-Jan-2021 08:14:29 UTC] PHP Stack trace:
+[29-Jan-2021 08:14:29 UTC] PHP   1. {main}() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-admin\admin-ajax.php:0
+[29-Jan-2021 08:14:29 UTC] PHP   2. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-admin\admin-ajax.php:22
+[29-Jan-2021 08:14:29 UTC] PHP   3. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-load.php:37
+[29-Jan-2021 08:14:29 UTC] PHP   4. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-config.php:74
+[29-Jan-2021 08:14:29 UTC] PHP   5. include() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-settings.php:525
+[29-Jan-2021 08:14:29 UTC] PHP Fatal error:  require(): Failed opening required 'C:\Users\Getse\Local Sites\gymfitness\app\public/wp-content/themes/gymfitnesscss/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\Getse\Local Sites\gymfitness\app\public\wp-content\themes\gymfitnesscss\functions.php on line 5
+[29-Jan-2021 08:14:29 UTC] PHP Stack trace:
+[29-Jan-2021 08:14:29 UTC] PHP   1. {main}() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-admin\admin-ajax.php:0
+[29-Jan-2021 08:14:29 UTC] PHP   2. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-admin\admin-ajax.php:22
+[29-Jan-2021 08:14:29 UTC] PHP   3. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-load.php:37
+[29-Jan-2021 08:14:29 UTC] PHP   4. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-config.php:74
+[29-Jan-2021 08:14:29 UTC] PHP   5. include() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-settings.php:525
+[29-Jan-2021 08:15:27 UTC] PHP Warning:  require(C:\Users\Getse\Local Sites\gymfitness\app\public/wp-content/themes/gymfitnesscss/inc/shortcodes.php): failed to open stream: No such file or directory in C:\Users\Getse\Local Sites\gymfitness\app\public\wp-content\themes\gymfitnesscss\functions.php on line 5
+[29-Jan-2021 08:15:27 UTC] PHP Stack trace:
+[29-Jan-2021 08:15:27 UTC] PHP   1. {main}() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-admin\admin-ajax.php:0
+[29-Jan-2021 08:15:27 UTC] PHP   2. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-admin\admin-ajax.php:22
+[29-Jan-2021 08:15:27 UTC] PHP   3. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-load.php:37
+[29-Jan-2021 08:15:27 UTC] PHP   4. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-config.php:74
+[29-Jan-2021 08:15:27 UTC] PHP   5. include() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-settings.php:525
+[29-Jan-2021 08:15:27 UTC] PHP Fatal error:  require(): Failed opening required 'C:\Users\Getse\Local Sites\gymfitness\app\public/wp-content/themes/gymfitnesscss/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\Getse\Local Sites\gymfitness\app\public\wp-content\themes\gymfitnesscss\functions.php on line 5
+[29-Jan-2021 08:15:27 UTC] PHP Stack trace:
+[29-Jan-2021 08:15:27 UTC] PHP   1. {main}() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-admin\admin-ajax.php:0
+[29-Jan-2021 08:15:27 UTC] PHP   2. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-admin\admin-ajax.php:22
+[29-Jan-2021 08:15:27 UTC] PHP   3. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-load.php:37
+[29-Jan-2021 08:15:27 UTC] PHP   4. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-config.php:74
+[29-Jan-2021 08:15:27 UTC] PHP   5. include() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-settings.php:525
+[29-Jan-2021 08:15:29 UTC] PHP Warning:  require(C:\Users\Getse\Local Sites\gymfitness\app\public/wp-content/themes/gymfitnesscss/inc/shortcodes.php): failed to open stream: No such file or directory in C:\Users\Getse\Local Sites\gymfitness\app\public\wp-content\themes\gymfitnesscss\functions.php on line 5
+[29-Jan-2021 08:15:29 UTC] PHP Stack trace:
+[29-Jan-2021 08:15:29 UTC] PHP   1. {main}() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-admin\options-general.php:0
+[29-Jan-2021 08:15:29 UTC] PHP   2. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-admin\options-general.php:10
+[29-Jan-2021 08:15:29 UTC] PHP   3. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-admin\admin.php:34
+[29-Jan-2021 08:15:29 UTC] PHP   4. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-load.php:37
+[29-Jan-2021 08:15:29 UTC] PHP   5. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-config.php:74
+[29-Jan-2021 08:15:29 UTC] PHP   6. include() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-settings.php:525
+[29-Jan-2021 08:15:29 UTC] PHP Fatal error:  require(): Failed opening required 'C:\Users\Getse\Local Sites\gymfitness\app\public/wp-content/themes/gymfitnesscss/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\Getse\Local Sites\gymfitness\app\public\wp-content\themes\gymfitnesscss\functions.php on line 5
+[29-Jan-2021 08:15:29 UTC] PHP Stack trace:
+[29-Jan-2021 08:15:29 UTC] PHP   1. {main}() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-admin\options-general.php:0
+[29-Jan-2021 08:15:29 UTC] PHP   2. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-admin\options-general.php:10
+[29-Jan-2021 08:15:29 UTC] PHP   3. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-admin\admin.php:34
+[29-Jan-2021 08:15:29 UTC] PHP   4. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-load.php:37
+[29-Jan-2021 08:15:29 UTC] PHP   5. require_once() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-config.php:74
+[29-Jan-2021 08:15:29 UTC] PHP   6. include() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-settings.php:525
+[07-Feb-2021 08:42:06 UTC] PHP Warning:  Error while sending QUERY packet. PID=23056 in C:\Users\Getse\Local Sites\gymfitness\app\public\wp-includes\wp-db.php on line 2056
+[07-Feb-2021 08:42:06 UTC] PHP Stack trace:
+[07-Feb-2021 08:42:06 UTC] PHP   1. {main}() C:\Users\Getse\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[07-Feb-2021 08:42:06 UTC] PHP   2. include() C:\Users\Getse\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[07-Feb-2021 08:42:06 UTC] PHP   3. include() phar://C:/Users/Getse/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[07-Feb-2021 08:42:06 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Getse/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[07-Feb-2021 08:42:06 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Getse/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[07-Feb-2021 08:42:06 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Getse/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[07-Feb-2021 08:42:06 UTC] PHP   7. WP_CLI\Runner->run_command_and_exit() phar://C:/Users/Getse/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160
+[07-Feb-2021 08:42:06 UTC] PHP   8. WP_CLI\Runner->run_command() phar://C:/Users/Getse/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:394
+[07-Feb-2021 08:42:06 UTC] PHP   9. WP_CLI\Dispatcher\Subcommand->invoke() phar://C:/Users/Getse/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:371
+[07-Feb-2021 08:42:06 UTC] PHP  10. call_user_func:{phar://C:/Users/Getse/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:451}() phar://C:/Users/Getse/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:451
+[07-Feb-2021 08:42:06 UTC] PHP  11. WP_CLI\Dispatcher\CommandFactory::WP_CLI\Dispatcher\{closure:phar://C:/Users/Getse/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:95-102}() phar://C:/Users/Getse/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:451
+[07-Feb-2021 08:42:06 UTC] PHP  12. call_user_func:{phar://C:/Users/Getse/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:98}() phar://C:/Users/Getse/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:98
+[07-Feb-2021 08:42:06 UTC] PHP  13. Core_Command->check_update() phar://C:/Users/Getse/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:98
+[07-Feb-2021 08:42:06 UTC] PHP  14. Core_Command->get_updates() phar://C:/Users/Getse/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/core-command/src/Core_Command.php:77
+[07-Feb-2021 08:42:06 UTC] PHP  15. wp_version_check() phar://C:/Users/Getse/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/core-command/src/Core_Command.php:1297
+[07-Feb-2021 08:42:06 UTC] PHP  16. get_site_transient() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-includes\update.php:37
+[07-Feb-2021 08:42:06 UTC] PHP  17. get_site_option() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-includes\option.php:1884
+[07-Feb-2021 08:42:06 UTC] PHP  18. get_network_option() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-includes\option.php:1246
+[07-Feb-2021 08:42:06 UTC] PHP  19. get_option() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-includes\option.php:1381
+[07-Feb-2021 08:42:06 UTC] PHP  20. wpdb->get_row() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-includes\option.php:125
+[07-Feb-2021 08:42:06 UTC] PHP  21. wpdb->query() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-includes\wp-db.php:2616
+[07-Feb-2021 08:42:06 UTC] PHP  22. wpdb->_do_query() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-includes\wp-db.php:1945
+[07-Feb-2021 08:42:06 UTC] PHP  23. mysqli_query() C:\Users\Getse\Local Sites\gymfitness\app\public\wp-includes\wp-db.php:2056
